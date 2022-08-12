@@ -2,5 +2,10 @@ Esta es la historia de Johan Santiago
 
 Johan Santiago tiene 22 años y nacio en colombia, viviendo en cúcuta.
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1
+
+>>>>>>> 5648a25 (Exp1)
 Mañana nos enfocaremos en su vida laboral.
