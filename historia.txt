@@ -7,5 +7,10 @@ Master 2
 =======
 Experimento 1
 
+<<<<<<< HEAD
 >>>>>>> 5648a25 (Exp1)
+=======
+Experimento 2
+
+>>>>>>> 4511eee (Exp2)
 Mañana nos enfocaremos en su vida laboral.
